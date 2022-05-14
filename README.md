@@ -1,4 +1,4 @@
-# *Carnage* 
+# *CARNAGE* 
 [![Carnage-icon](https://github.com/souvik-pramanik/Carnage/blob/master/image-src/carnage.png?raw=true)][page]  
 
 ##### Carnage is a ***Simple*** but ***Powerful***, ***Clever*** and ***Flexible*** Cross-Platform [Port Scanning][ps] tool made with ease to use and convenience in mind. 
